@@ -1,4 +1,9 @@
-K-Means Clustering Usage
+K-Means Clustering
+
+Given a set of coordinates and a predetermined value for K; The program will output a graphical approximation of the clusters of data and also if requested more accurate clustering data in the form of the centroid coordinates will be written to a file.
+
+
+Usage
 
 java Clustering filename k_value [-v] [-wo filename]
 
